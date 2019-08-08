@@ -25,4 +25,3 @@ demo/report/report.html
 demo/report/stats.json
 !demo-vue/app/app.js
 
-src/platforms/android/libs/*.*
